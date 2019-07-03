@@ -1,0 +1,65 @@
+body{
+    
+    background: green;
+}
+
+.center{
+    text-align: center;
+}
+
+.head{
+    font-size: 50px;
+    color: #fff;
+}
+
+.button1{
+    padding: 15px;
+    background-color: orange;    
+    color: #fff;
+    margin: 5px;
+    font-size: 1rem;
+}
+.button2{
+    padding: 15px;
+    background-color: orange;    
+    color: #fff;
+    margin: 5px;
+    font-size: 1rem;
+}
+.form-value{
+    padding: 10px;
+    margin: 15px;
+}
+
+#btn1{
+    color: #fff;
+    padding: 15px;
+    background-color:coral;
+    margin: 15px;
+    font-size: 1rem;
+}
+
+a{
+    color:#fff;
+    padding: 15px;;
+    background-color: darkorange;
+    font-size: 1rem;  
+    text-decoration-line: none;
+    
+}
+
+a:hover{
+    background-color: red;    
+}
+
+
+#btn3{    
+    
+    color:#fff;
+    padding: 15px;
+    margin: 15px;
+    background-color: indigo;
+    font-size: 1rem;
+   
+    
+}
